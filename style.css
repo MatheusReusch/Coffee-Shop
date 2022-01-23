@@ -1,0 +1,112 @@
+body {
+    background-color: rgb(247, 241, 233);
+}
+
+#header {
+    display: flex;
+    justify-content: space-around;
+    background-color: black;
+    position: fixed;
+    width: 100%;
+    height: 6%;
+}
+
+.word {
+    font-family: 'Inconsolata', monospace;
+    color: rgb(255, 253, 253);
+    margin-top: 25px;
+}
+
+.img {
+    width: 100%;
+    height: 1200px;
+    margin-top: 30px;
+}
+
+#title {
+    text-align: center;
+    margin-top: 140px;
+    color: white;
+    background-color: black;
+    width: 12%;
+    padding: 5px;
+    font-family: 'Inconsolata', monospace;
+}
+
+.theCafe {
+    margin-bottom: 500px;
+    margin-left: 46%;
+    margin-top: -680px;
+    font-size: 100px;
+    max-width: 5%;
+    font-family: 'Inconsolata', monospace;
+    color: rgb(255, 253, 253);
+}
+
+.sub {
+    display: flex;
+    justify-content: space-between;
+    margin-top: -120px;
+    color: white;
+}
+
+.open {
+    background-color: black;
+    margin-left: 10px;
+    padding: 6px;
+    font-family: 'Inconsolata', monospace;
+}
+
+.street {
+    margin-right: 10px;
+    font-family: 'Inconsolata', monospace;
+}
+
+.section {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.text {
+    margin-top: 150px;
+    margin-left: 750px;
+    margin-right: 26%;
+    font-family: 'Inconsolata', monospace;
+}
+
+.text2 {
+    margin-top: 30px;
+    margin-left: 750px;
+    margin-right: 26%;
+    font-family: 'Inconsolata', monospace;
+}
+
+.text3 {
+    margin-top: 30px;
+    margin-left: 750px;
+    margin-right: 26%;
+    font-family: 'Inconsolata', monospace;
+    background-color: rgb(235, 229, 229);
+    padding: 20px;
+}
+
+.img2 {
+    width: 46.5%;
+    margin-top: 30px;
+    display: flex;
+    justify-content: center;
+    margin-left: 33px;
+}
+
+.opens {
+    font-family: 'Inconsolata', monospace;
+    margin-top: 50px;
+    margin-right: 21%;
+}
+
+.opens2 {
+    font-family: 'Inconsolata', monospace;
+    margin-top: 20px;
+    margin-right: 25.3%;
+}
