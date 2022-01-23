@@ -205,5 +205,13 @@ body {
 #namesenha {
     margin-left: 27.5%;
     margin-top: 20px;
-    width: 46.5%;
+   width: 46.5%;
+    height: 140%;
+}
+
+#namesenha2 {
+    margin-left: 27.5%;
+    margin-top: 20px;
+    width: 8.5%;
+    height: 140%;
 }
