@@ -35,6 +35,31 @@ eat.addEventListener('click', () => {
     belgianwaffle.id = 'belgianwaffle'
     belgianwaffle.className = 'product'
     section.appendChild(belgianwaffle);
+    let belgianwafflees = document.createElement('h2');
+    belgianwafflees.innerText = 'Vanilla flavored batter with malted flour 7.50'
+    belgianwafflees.id = 'regularcoffee'
+    belgianwafflees.className = 'product'
+    section.appendChild(belgianwafflees);
+    let scrambledeggs = document.createElement('h2');
+    scrambledeggs.innerText = 'Scrambled eggs'
+    scrambledeggs.id = 'scrambledeggs'
+    scrambledeggs.className = 'product'
+    section.appendChild(scrambledeggs);
+    let scrambledeggses = document.createElement('h2');
+    scrambledeggses.innerText = 'Scrambled eggs, roasted red pepper and garlic, with green onions 7.50'
+    scrambledeggses.id = 'regularcoffee'
+    scrambledeggses.className = 'product'
+    section.appendChild(scrambledeggses);
+    let pancakes = document.createElement('h2');
+    pancakes.innerText = 'Blueberry Pancakes'
+    pancakes.id = 'pancakes'
+    pancakes.className = 'product'
+    section.appendChild(pancakes);
+    let pancakeses = document.createElement('h2');
+    pancakeses.innerText = 'With syrup, nutter and lots of berries 8.50'
+    pancakeses.id = 'regularcoffee'
+    pancakeses.className = 'product'
+    section.appendChild(pancakeses);
 })
 
 drink.addEventListener('click', () => {

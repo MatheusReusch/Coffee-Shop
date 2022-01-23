@@ -158,3 +158,52 @@ body {
 #regularcoffee {
     color: gray;
 }
+
+#img3 {
+    width: 46%;
+    margin-left: 27.5%;
+    margin-top: 80px;
+}
+
+#titlefind {
+    text-align: center;
+    margin-top: 140px;
+    color: white;
+    background-color: black;
+    width: 12%;
+    padding: 5px;
+    font-family: 'Inconsolata', monospace;
+    margin-left: 42.9%;
+}
+
+#find {
+    font-family: 'Inconsolata', monospace;
+    margin-top: 150px;
+    margin-left: 27.5%;
+}
+
+#span {
+    font-size: 28px;
+    font-family: 'Inconsolata', monospace;
+    margin-left: 20%;
+    width: 1px;
+}
+
+#find2 {
+    font-family: 'Inconsolata', monospace;
+    margin-top: 50px;
+    margin-left: 27.5%;
+    max-width: 1370px;
+}
+
+#find3 {
+    font-family: 'Inconsolata', monospace;
+    margin-top: 50px;
+    margin-left: 27.5%;
+}
+
+#namesenha {
+    margin-left: 27.5%;
+    margin-top: 20px;
+    width: 46.5%;
+}
