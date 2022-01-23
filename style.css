@@ -110,3 +110,51 @@ body {
     margin-top: 20px;
     margin-right: 25.3%;
 }
+
+#title2 {
+    text-align: center;
+    margin-top: 2px;
+    color: white;
+    background-color: black;
+    width: 12%;
+    padding: 5px;
+    font-family: 'Inconsolata', monospace;
+}
+
+.sec2 {
+    margin-left: 46%;
+    margin-top: -70px;
+}
+
+.div {
+    display: flex;
+    margin-top: 60px;
+    justify-content: space-evenly;
+    border-color: gray;
+    border-style: solid;
+    width: 46%;
+    margin-left: 27.5%;
+    padding: 10px;
+    box-shadow: 10px 5px 5px rgb(172, 165, 165);
+}
+
+.product {
+    display: flex;
+    justify-content: flex-start;
+    margin-top: 80px;
+    margin-left: 50px;
+    font-family: 'Inconsolata', monospace;
+}
+
+#products {
+    border-style: solid;
+    border-color: gray;
+    width: 46%;
+    margin-left: 27.5%;
+    margin-top: -22px;
+    box-shadow: 10px 5px 5px rgb(172, 165, 165);
+}
+
+#regularcoffee {
+    color: gray;
+}
