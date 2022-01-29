@@ -2,7 +2,7 @@ body {
   background-color: rgb(247, 241, 233);
 }
 
-#header {
+#nav {
   display: flex;
   justify-content: space-around;
   background-color: black;
@@ -15,6 +15,8 @@ body {
   font-family: "Inconsolata", monospace;
   color: rgb(255, 253, 253);
   margin-top: 1%;
+  text-decoration: none;
+  font-size: x-large;
 }
 
 .img {
@@ -25,7 +27,7 @@ body {
 
 #title {
   text-align: center;
-  margin-top: 8%;
+  margin-top: 7%;
   color: white;
   background-color: black;
   width: 12%;
@@ -163,6 +165,18 @@ body {
 #img3 {
   width: 46%;
   margin-left: 27.5%;
+}
+
+#namesenha2 {
+  margin-left: 27.5%;
+  margin-top: 0.5%;
+  width: 8.5%;
+  height: 140%;
+}
+
+footer {
+  width: 100%;
+  background-color: black;
   margin-top: 3%;
 }
 
@@ -170,6 +184,18 @@ body {
   text-align: center;
   margin-top: 4%;
   color: white;
+  background-color: black;
+}
+
+#namesenha2 {
+  margin-left: 27.5%;
+  margin-top: 0.5%;
+  width: 8.5%;
+  height: 140%;
+}
+
+footer {
+  width: 100%;
   background-color: black;
   width: 12%;
   padding: 5px;
@@ -202,6 +228,7 @@ body {
   margin-top: 2%;
   margin-left: 27.5%;
   max-width: 49%;
+  margin-bottom: 1%;
 }
 
 #namesenha {
